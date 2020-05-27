@@ -24,7 +24,7 @@ description: 나의 첫 번째 게시글!
 
 **예시**
 
-2. 타이틀처럼 크기 키우기(?)
+1. 타이틀처럼 크기 키우기(?)
 '#' 를 여러 개 쓴다
 
 {% highlight raw %}
@@ -39,6 +39,6 @@ description: 나의 첫 번째 게시글!
 3개: ### Heading
 4개: #### Heading
 
-3. 하이라이트
+1. 하이라이트
 네모상자에 담는 방법은 '{% highlight raw %}' 으로 열고 '{% endhighlight raw %}' 로 닫기
 
