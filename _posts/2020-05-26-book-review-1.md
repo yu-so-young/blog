@@ -1,5 +1,5 @@
 ---
-title: "『인간의 대지(Terre des hommes)』 - 생텍쥐페리"
+title: "『인간의 대지』 - 생텍쥐페리"
 layout: post
 date: 2020-05-26
 image: https://yu-so-young.github.io/blog/assets/images/emoji/books.jpg
