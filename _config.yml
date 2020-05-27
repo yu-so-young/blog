@@ -1,5 +1,5 @@
 # main text of home
-name: Yu Soyoung
+name: "Yu Soyoung"
 bio: Developer & Designer
 
 # twitter summary info
@@ -54,7 +54,7 @@ email: sy980911@gmail.com
 
 authors:
   soyoung:
-    name: Yu Soyoung
+    name: Soyoung
     bio: 세상엔 어려운 게 너무 많아
     external-image: false
     picture: assets/images/profile.jpg
