@@ -1,8 +1,9 @@
 ---
-title: ":books: 『인간의 대지』 - 생텍쥐페리"
+title: ":books: 『인간의 대지(Terre des hommes)』 - 생텍쥐페리"
 layout: post
 date: 2020-05-26
-headerImage: /assets/images/emoji/book.jpg
+image: /assets/images/emoji/book.jpg
+headerImage: true
 tag:
 - book
 - existentialisme
@@ -12,9 +13,6 @@ description: book review, 『Terre des hommes』 - Saint-Exupéry
 
 ---
 
-『인간의 대지(Terre des hommes)』 - 생텍쥐페리
-===================
-
-생텍쥐페리의 인간의 대지.
+유독 잠이 오지 않던 새벽, 거실 책장을 살펴보다 우연히 발견한 생텍쥐페리의 『인간의 대지』.
 
 > "대지는"
