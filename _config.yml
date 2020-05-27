@@ -41,7 +41,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: yu-so-young
+github: yu-so-young/blog
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,12 +50,12 @@ github: yu-so-young
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: sodudd@gmail.com
+# email: sodudd@gmail.com
 
 authors:
   soyoung:
     name: Yu Soyoung
-    bio: 노쇠한 개발자 대학생
+    bio: 세상엔 어려운 게 너무 많아
     external-image: false
     picture: assets/images/profile.jpg
 
