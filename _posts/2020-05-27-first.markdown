@@ -1,0 +1,44 @@
+---
+title: "github 블로그 만들기 성공"
+layout: post
+date: 2020-05-27
+tag:
+- github
+category: blog
+author: soyoung
+description: 나의 첫 번째 게시글!
+---
+
+## 드디어!!!!
+드디어 깃허브 블로그를 만들었다! 아직 url 에서 /blog 를 떼고 만드는 시도는 성공하지도 못했고,
+로컬이랑 연결시키는 것도 자꾸 실패하긴 하지만...
+그래도 절반 이상 성공했다는 점에 의의를 둔다!! 기특해 나자신
+
+
+## Markdown 공부
+1. 강조하고 싶으면 앞 뒤에 '**' 를 붙인다.
+
+{% highlight raw %}
+**예시**
+{% endhighlight raw %}
+
+**예시**
+
+2. 타이틀처럼 크기 키우기(?)
+'#' 를 여러 개 쓴다
+
+{% highlight raw %}
+1개: # Heading
+2개: ## Heading
+3개: ### Heading
+4개: #### Heading
+{% endhighlight raw %}
+
+1개: # Heading
+2개: ## Heading
+3개: ### Heading
+4개: #### Heading
+
+3. 하이라이트
+네모상자에 담는 방법은 '{% highlight raw %}' 으로 열고 '{% endhighlight raw %}' 로 닫기
+
