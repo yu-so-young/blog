@@ -36,12 +36,12 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
-instagram: yusoyng
+# instagram: myinsta
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: yu-so-young
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -54,11 +54,10 @@ email: sy980911@gmail.com
 
 authors:
   soyoung:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Yu Soyoung
+    bio: 
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
