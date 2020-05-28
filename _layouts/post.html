@@ -30,12 +30,13 @@ layout: page
         {% else %}
             <a class="prev"></a>
         {% endif %}
-		
-		<a class="home" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}" title="Back to Index">Index</a>
-		
+				
         {% if page.next.hidden == false and page.next.url %}
             <a class="next" href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
         {% endif %}
+		
+		<br>
+		<a class="home" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}" title="Back to Index">Back to Index</a>
     </div>
 {% endif %}
 
